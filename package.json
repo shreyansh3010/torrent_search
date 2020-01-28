@@ -1,0 +1,31 @@
+{
+  "name": "torrent_search",
+  "version": "1.0.0",
+  "description": "A torrent aggregate search",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shreyansh3010/torrent_search.git"
+  },
+  "keywords": [
+    "torrent",
+    "saerch",
+    "node",
+    "api",
+    "crawler",
+    "js"
+  ],
+  "author": "shreyansh jain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shreyansh3010/torrent_search/issues"
+  },
+  "homepage": "https://github.com/shreyansh3010/torrent_search#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.0"
+  }
+}
